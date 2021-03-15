@@ -9,6 +9,8 @@
 + [Python Machine Learning Quick Tour](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/QuickStart/Python_Machine_Learning_Quick_Tour.ipynb) － Colab 開啟。
 
 
+## 課程 Jupyter 筆記本
+
 【提醒】： 目前 Google Colaboratory 以及 GitHub 都還無法顯示以下教材中以 attachments 方式嵌入的圖片附件（後續會進行修改），建議盡量使用雲端 Jupyter nbviewer 或是本地端的 Jupyter 環境。
 
 以下是使用 Jupyter nbviewer 開啟各單元的連結：
