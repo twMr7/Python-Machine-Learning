@@ -27,7 +27,7 @@
 11. [Numpy 向量運算](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/11-Numpy_Vectorized_Computation.ipynb)
 12. [Matplotlib 資料視覺化](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/12-Matplotlib_Data_Visualization.ipynb)
 13. [Pandas 資料處理](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/13-Pandas_Data_Processing.ipynb)
-14. [Sklearn - 建立機器學習模型](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/14-Sklearn_Building_A_Machine_Learning_Model.ipynb)
+14. [從頭建立機器學習模型](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/14-Building_A_Machine_Learning_Model_from_Scratch.ipynb)
 15. [Sklearn - 資料前處理](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/15-Sklearn_Data_Preprocessing.ipynb)
 16. [Sklearn - 實用技巧](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/16-Sklearn_Best_Practice_Techniques.ipynb)
 17. [Artificial Neural Network with tf.Keras](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/17-Artificial_Neural_Network_with_tf_Keras.ipynb)
