@@ -58,7 +58,9 @@ Python 與機器學習的快速導覽，希望在2-3小時內可以對Python程�
 14. **從頭建立機器學習模型**
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/14-Building_A_Machine_Learning_Model_from_Scratch.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/14-Building_A_Machine_Learning_Model_from_Scratch.ipynb)
-15. [Sklearn - 資料前處理](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/15-Sklearn_Data_Preprocessing.ipynb)
+15. **機器學習使用 Scikit-Learn**
+[[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/15-Machine_Learning_with_Scikit.ipynb)
+[[Colab]](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/15-Machine_Learning_with_Scikit.ipynb)
 16. [Sklearn - 實用技巧](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/16-Sklearn_Best_Practice_Techniques.ipynb)
 17. [Artificial Neural Network with tf.Keras](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/17-Artificial_Neural_Network_with_tf_Keras.ipynb)
 18. [Artificial Neural Network - Case Studies](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/18-ANN_Case_Studies.ipynb)
