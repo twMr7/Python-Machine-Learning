@@ -61,7 +61,9 @@ Python 與機器學習的快速導覽，希望在2-3小時內可以對Python程�
 15. **機器學習使用 Scikit-Learn**
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/15-Machine_Learning_with_Scikit.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/15-Machine_Learning_with_Scikit.ipynb)
-16. [Sklearn - 實用技巧](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/16-Sklearn_Best_Practice_Techniques.ipynb)
+16. **超參數搜尋與特徵選取使用 Scikit-Learn**
+[[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/16-Hyperparameter_Search_and_Feature_Selection_with_Scikit.ipynb)
+[[Colab]](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/16-Hyperparameter_Search_and_Feature_Selection_with_Scikit.ipynb)
 17. [Artificial Neural Network with tf.Keras](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/17-Artificial_Neural_Network_with_tf_Keras.ipynb)
 18. [Artificial Neural Network - Case Studies](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/18-ANN_Case_Studies.ipynb)
 19. [Practical Autoencoders](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/19-Practical_Autoencoders.ipynb)
