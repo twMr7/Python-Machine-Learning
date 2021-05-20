@@ -64,7 +64,14 @@ Python 與機器學習的快速導覽，希望在2-3小時內可以對Python程�
 16. **超參數搜尋與特徵選取使用 Scikit-Learn**
 [[NBviewer]](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/16-Hyperparameter_Search_and_Feature_Selection_with_Scikit.ipynb)
 [[Colab]](https://colab.research.google.com/github/twMr7/Python-Machine-Learning/blob/master/16-Hyperparameter_Search_and_Feature_Selection_with_Scikit.ipynb)
+
 17. [Artificial Neural Network with tf.Keras](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/17-Artificial_Neural_Network_with_tf_Keras.ipynb)
 18. [Artificial Neural Network - Case Studies](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/18-ANN_Case_Studies.ipynb)
 19. [Practical Autoencoders](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/19-Practical_Autoencoders.ipynb)
 20. [CNN Fundamental](https://nbviewer.jupyter.org/github/twMr7/Python-Machine-Learning/blob/master/20-CNN_Fundamental.ipynb)
+
+**Note**: 所有深度學習課程內容改到 [PyTorch-Deep-Learning](https://github.com/twMr7/PyTorch-Deep-Learning)，目前的 17-20 章在新內容準備後會被刪除。
+
+---
+
+**2021**, ***James Chang***
